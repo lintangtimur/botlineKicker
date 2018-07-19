@@ -3,6 +3,9 @@ Kick member of group when send prohibited word
 
 Bot ini akan kick user dari grup ketika ada user yang mengirim pesan terlarang yang sudah diatur dalam BOT
 
+## Tutorial
+[Youtube](https://www.youtube.com/watch?v=ti5zz8S-52c&feature=youtu.be)
+
 REQ
 1. Python 3
 2. [line-py](https://github.com/fadhiilrachman/line-py)
