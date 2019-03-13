@@ -1,3 +1,10 @@
+# NOTE
+### ID
+Bot ini sudah tidak dimaintenance lagi, terakhir di test tanggal 19 Juli 2018, jika menjalankan script ini mungkin akan ada error karena ada perubahan dari LINE, dan jika bot jalan tapi pesan kok tidak diterima oleh pengguna lain kemungkinan bot anda terkena `BAN` tidak bisa mengirim message, biasanya tidak bisa digunakan selama 1Minggu, bot masih bisa menerima pesan hanya tidak dapat mengirim pesan, itu kasus yang pernah saya dapat beberapa waktu lalu.
+
+### EN
+This bot is no longer maintained, the last test was on July 19, 2018, if you run this script there might be an error because there is a change from LINE, and if the bot runs but the message is not received by other users the possibility of your bot being banned send messages, usually can not be used for 1 week, the bot can still receive messages just can not send messages, that's the case that I have got some time ag
+
 # botlineKicker
 Kick member of group when send prohibited word
 
